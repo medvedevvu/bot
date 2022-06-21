@@ -8,8 +8,6 @@ import (
 	"github.com/joho/godotenv"
 )
 
-//const token = "5562855074:AAGkdrMFHJ_WfGiqOnCg89StT46q0Lx6EIQ"
-
 func main() {
 
 	godotenv.Load()
